@@ -36,4 +36,4 @@ jobs:
         SOURCE: "dist/"
         REMOTE_HOST: "39.96.166.230"
         REMOTE_USER: "root"
-        TARGET: "/www/www.haiyingsitan.cn/autodeploy/"
+        TARGET: "/www/autodeploy/"
